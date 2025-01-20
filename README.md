@@ -40,6 +40,6 @@ This part simulates a morning routine using Python to showcase different multita
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request.
