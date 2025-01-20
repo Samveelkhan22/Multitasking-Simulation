@@ -37,3 +37,8 @@ This part simulates a morning routine using Python to showcase different multita
 - Sequential Execution: Tasks execute one after another; less efficient.
 - Parallel Execution: Utilizes idle time for better task optimization.
 - Multithreading: Achieves true multitasking with concurrent execution.
+
+---
+
+🤝 Contributing
+Contributions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request.
